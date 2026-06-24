@@ -1,4 +1,4 @@
-## I'm Josh, and i'm a growing backend developer interested in building creative applications and solutions in Go and Python.
+## I'm Josh, a backend developer interested in building creative applications and solutions in Go and Python.
 
 I'm currently working at [Incepty](https://incepty.io/) building custom integration applications and microservices for business clients who need something custom to make the HubSpot CRM work for their business.
 
