@@ -6,9 +6,6 @@ My latest project, "Conduit", is a multi-tenant data sync tool that maps CSV and
 
 I've just completed my [capstone project](https://soundclash.app/) after completing the brilliant backend developer path at [Boot.Dev](https://www.boot.dev/dashboard) which i would highly reccommend to anyone wanting to improve their skills as an engineer. 
 
-I'm looking now to contribute to a project larger than what i have produced as a solo developer, ideally something that will allow me to flex those speedy concurrent Golang muscles! I would love to work with a team who produces leading software or web app solutions so i can grow into team developer.
+I'm looking now to contribute to a project larger than what i have produced as a solo developer, ideally something that will allow me to push out of my comfort zone and work on a large project, get involved in architecture, decision making, and ideally making meaningful contributions to innovative code!
 
 I have a dream of one day developing my own indie PC game, inspired by the classic games from my childhood that they just don't make the same anymore! 
-
-@joshjestah on Instagram 
-*(The name "Jestah" is a relic of my past as a drum & bass producer, that i haven't quite been able to shake).*
