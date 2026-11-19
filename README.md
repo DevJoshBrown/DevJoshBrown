@@ -6,8 +6,6 @@ I've recently completed the brilliant backend developer path at [Boot.Dev](https
 
 I'm currently working on a [hand coded rate limiting proxy server service](https://github.com/DevJoshBrown/RLProxy) in order to greater understand RL algorithms, writing good unit tests, promethus and metrics, and to practice good CI/CD process as I look to start working with other developers.
 
-Currently studying Kubernetes and Docker in the hope of using these application profesionally and to expand my repetoire deeper into infrastructure.
-
 I'm aspiring to contribute to a project larger than what I have produced as a solo developer, ideally something that will allow me to push out of my comfort zone and work on a large project, get involved in architecture, decision making, and ideally making meaningful contributions to innovative code!
 
 I have a dream of one day developing my own indie PC game, inspired by the classic games from my childhood that they just don't make the same anymore! 
