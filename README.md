@@ -1,6 +1,6 @@
 ## I'm Josh, I build creative applications and solutions in Go and (rarely) Python.
 
-I'm currently working at [Incepty](https://incepty.io/) building custom integration applications and microservices for business clients who need something custom to make the HubSpot CRM work for their business.
+I'm currently working at [Incepty](https://incepty.io/) building custom integration applications and microservices for business clients who need an external servive to make the HubSpot CRM work for their business.
 
 I've recently completed the brilliant backend developer path at [Boot.Dev](https://www.boot.dev/dashboard) which I would highly reccommend to anyone wanting to improve their skills as an engineer. 
 
